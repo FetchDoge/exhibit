@@ -82,6 +82,6 @@ upgraded without a new observation, and no LLM output is labeled VERIFIED. One f
 citation presented as verified fails conformance permanently for that producer version.
 
 ---
-*Derived from the Ektar World-View primitive: claim + provenance + authority + review date +
+*Derived from a world-view primitive used across these projects: claim + provenance + authority + review date +
 falsifier. This spec is the γ asset — the highest-value move is a second independent
 implementer, not a longer connector list.*
