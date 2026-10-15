@@ -201,6 +201,8 @@ enforces that by design.
 
 Working analyst workbench, maintained. The CT radar weights changed once on evidence (`8313250`), and any further change needs the same external-eval justification.
 
+Built by Marcus Richards, directing AI coding agents.
+
 ## License
 
 MIT. See [LICENSE](LICENSE). Every claim in this README is meant to be checkable by someone who doesn't trust it yet. If the tests don't pass on a clean clone, please open an issue.
