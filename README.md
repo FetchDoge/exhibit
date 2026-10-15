@@ -2,7 +2,7 @@
 
 **Turns public OSINT into tiered, sourced claims, and refuses out-of-scope targets unless the operator attests a reason.**
 
-[![CI](https://github.com/marsojuji-cmyk/exhibit/actions/workflows/ci.yml/badge.svg)](https://github.com/marsojuji-cmyk/exhibit/actions/workflows/ci.yml)
+[![CI](https://github.com/FetchDoge/exhibit/actions/workflows/ci.yml/badge.svg)](https://github.com/FetchDoge/exhibit/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](.github/workflows/ci.yml)
 
@@ -34,7 +34,7 @@ Exhibit runs defensive, open-source intelligence aggregation for authorized doma
 ## Quickstart
 
 ```bash
-git clone https://github.com/marsojuji-cmyk/exhibit && cd exhibit
+git clone https://github.com/FetchDoge/exhibit && cd exhibit
 python3 -m unittest discover tests -v      # the same command CI runs
 python3 -m workbench.cli init
 python3 -m workbench.cli collect --target marcusrichards.dev
