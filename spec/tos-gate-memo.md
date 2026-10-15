@@ -1,6 +1,6 @@
 # ToS / License Design-Gate Memo — OSINT Platform v1
 
-**Date:** 2026-09-29 · **Reviewer:** Ektar (design gate, not legal advice)
+**Date:** 2026-09-29 · **Reviewer:** AI-assisted design review (design gate, not legal advice)
 **Question:** may the platform collect from each source, store derived claims
 locally, and show receipts to the analyst? And may it later re-serve that
 data to third parties?
